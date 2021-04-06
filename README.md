@@ -1,7 +1,7 @@
 ### Hi there, I'm Nikolay - aka Web Developer 👋
 
+- 👨‍🎓 I’m student from Yandex.Practikum
 - 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate to open source projects
 - 🥅 2021 Goals: Develop and improve
 
 ### Languages and Tools:
