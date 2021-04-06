@@ -22,10 +22,10 @@
 ### Github Stats:
 
 <a href="https://github.com/kamenskiyyyy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamenskiyyyy&theme=light&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamenskiyyyy&theme=nord&hide_langs_below=1" />
 </a>
 <a href="https://github.com/kamenskiyyyy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamenskiyyyy&show_icons=true&theme=light&line_height=27" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamenskiyyyy&show_icons=true&theme=nord&line_height=27" />
 </a>
 
 <div align="center">
