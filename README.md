@@ -5,8 +5,8 @@
 - 👨🏼‍💻Нахожусь в поиске работы
 
 ### Контакты:
-email: kamenik1@mail.ru
-telegram: @kamenskiyyyy
+- email: kamenik1@mail.ru
+- telegram: @kamenskiyyyy
 
 ### Мои навыки:
 
