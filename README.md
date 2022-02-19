@@ -27,6 +27,3 @@
 <a href="https://github.com/kamenskiyyyy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamenskiyyyy&theme=nord&hide_langs_below=1&layout=compact" />
 </a>
-<a href="https://github.com/kamenskiyyyy">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=kamenskiyyyy&show_icons=true&theme=nord&line_height=27" />
-</a>
