@@ -6,6 +6,7 @@
 ### Контакты:
 - email: kamenik1@icloud.com
 - telegram: @kamenskiyyyy
+- LinkedIn: https://www.linkedin.com/in/kamenskiyyyy/
 
 ### Мои навыки:
 
