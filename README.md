@@ -11,5 +11,5 @@
 ### Github Stats:
 
 <a href="https://github.com/kamenskiyyyy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamenskiyyyy&theme=nord&hide_langs_below=1&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamenskiyyyy&theme=nord&layout=compact" />
 </a>
