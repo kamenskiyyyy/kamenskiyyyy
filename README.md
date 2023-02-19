@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamenskiyyyy" alt="kamenskiyyyy" /></a> </p>
 
-- 🔭 I’m currently working on **Pochta Pay (Russian Post) **
+- 🔭 I’m currently working on **Pochta Pay (Russian Post)**
 
 - 🌱 I’m currently learning **DevOPS, SRE**
 
