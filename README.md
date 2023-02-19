@@ -1,7 +1,8 @@
 ### Hi there, I'm Nikolay - developer 👋
 
 - ❤️I like to learn about programming and I love my work с:
-- 👨🏼‍💻Work as frontend-developer for Russian Post
+- 👨🏼‍💻Work for Russian Post
+- 🤙🏻Interested in development, devops and SRE
 
 ### Contacts:
 
