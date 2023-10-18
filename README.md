@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Nikolay</h1>
-<h3 align="center">A passionate developer from Russia</h3>
+<h3 align="center">A passionate DevOps from Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamenskiyyyy&label=Profile%20views&color=0e75b6&style=flat" alt="kamenskiyyyy" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamenskiyyyy" alt="kamenskiyyyy" /></a> </p>
 
-- 🔭 I’m currently working on **Pochta Pay (Russian Post)**
-
-- 🌱 I’m currently learning **DevOPS, SRE**
+- 🔭 I’m currently working on **PIK Company (the largest Russian construction company)**
 
 - 📝 I regularly write articles on [https://habr.com/ru/users/kamenskiyyyy/posts/](https://habr.com/ru/users/kamenskiyyyy/posts/)
 
-- 📫 How to reach me **kamenik1@icloud.com**
+- 📫 How to reach me **limier.blank.0d@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
